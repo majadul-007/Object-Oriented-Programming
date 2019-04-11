@@ -1,6 +1,6 @@
-let dog = {
+// Creating An Object
 
-// Creating Object with name and numLegs
+let dog = {
 // Object must be end with comma not semicolon 
 // Using comma  before last object not necessari
 
